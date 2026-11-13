@@ -1,2 +1,5 @@
 # Python-Diary-Project
-Creating a personal diary with simple python object oriented programming
+Creating a simple python-based command line interface personal diary! 
+
+## Run 
+python diary.py
